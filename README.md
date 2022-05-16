@@ -10,8 +10,8 @@ in the document. It has been developed using C++ with the gtkmm-3.0 library. Cma
 
 Make sure you have the gtkmm-3.0 libraries and header files installed. If not follow the instructions [here](https://www.gtkmm.org/en/download.html) 
 
-1)Go to the root directory of the project
-2)mkdir build && cd build
-3)cmake ..
-4)Run the build command specific to your platform. For unix systems it will be: make
-5)./dit
+1. Go to the root directory of the project
+2. mkdir build && cd build
+3. cmake ..
+4. Run the build command specific to your platform. For unix systems it will be: make
+5. ./dit
