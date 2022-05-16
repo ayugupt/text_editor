@@ -6,7 +6,7 @@ in the document. It has been developed using C++ with the gtkmm-3.0 library. Cma
 ![Text_Editor1](https://raw.githubusercontent.com/ayugupt/text_editor/master/images/ssq.png)
 ![Text_Editor2](https://raw.githubusercontent.com/ayugupt/text_editor/master/images/ss2.png)
 
-#Build Instructions
+# Build Instructions
 
 Make sure you have the gtkmm-3.0 libraries and header files installed. If not follow the instructions [here](https://www.gtkmm.org/en/download.html) 
 
